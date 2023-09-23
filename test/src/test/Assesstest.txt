@@ -1,11 +1,6 @@
 Alphabet
 a
 b
-<<<<<<< HEAD
-c
-d
-=======
->>>>>>> develop2
 Number
 1
 2
